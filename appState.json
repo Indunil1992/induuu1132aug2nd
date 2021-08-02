@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "216997ea-2513-4263-8504-1131da9451bb": {
+        "id": "216997ea-2513-4263-8504-1131da9451bb",
+        "parent": null,
+        "name": "induuu1132Aug2nd.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "induuu1132Aug2nd.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 18
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "induuu1132Aug2nd"
+        },
+        "triggers": [],
+        "lastUpdated": 1627884154703
+      }
+    },
+    "openFiles": [
+      "216997ea-2513-4263-8504-1131da9451bb"
+    ],
+    "currentFileId": "216997ea-2513-4263-8504-1131da9451bb",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.3",
+    "projectName": "induuu1132Aug2nd",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1627884165812
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "induuu1132aug2nd",
+      "url": "https://github.com/Indunil1992/induuu1132aug2nd"
+    }
+  }
+}
